@@ -1,0 +1,4 @@
+Output mode: normal
+normal
+
+o i o i iii o dd o;
